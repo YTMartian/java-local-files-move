@@ -16,3 +16,5 @@ java课设，本机文件移动
 - 不断点击暂停、取消操作后会导致文件资源被占用而不能删除的情况出现
 
 ## 演示
+
+![](http://www.potatochip.cn/java_class_design.gif)
