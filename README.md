@@ -17,4 +17,4 @@ java课设，本机文件移动
 
 ## 演示
 
-<img src="http://www.potatochip.cn/java_class_design.gif" style="width="35%"">
+<img src="http://www.potatochip.cn/java_class_design.gif" width="35%">
