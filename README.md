@@ -1,20 +1,20 @@
-# java-local-files-move
-java课设，本机文件移动
+# JAVA LOCAL FILE MOVE
+A JAVA HOMEWORK
 
-## 开发环境
-- OS Name	Microsoft Windows 10 Enterprise N
-- Total Physical Memory	15.9 GB
-- Java(TM) SE Runtime Environment (build 1.8.0_131-b11)
-- IntelliJ IDEA 2017.2.1
+## DEVELOPMENT ENVIRONMENT
+- OS NAME MICROSOFT WINDOWS 10 ENTERPRISE N
+- TOTAL PHYSICAL MEMORY 15.9GB
+- JAVA(TM) SE RUNTIME ENVIRONMENT(BUILD 1.8.0_131-B11)
+- INTELLIJ IDEA 2017.2.1
 
-## 实现内容
-- java swing实现图形界面
-- RandomAccessFile类实现文件分小块复制
-- 继承Thread类实现暂停、取消移动操作
+## IMPLEMENT
+- JAVA SWING GRAPHIC INTERFACE
+- RANDOMACCESSFILE SUB-FILES COPY&MOVE
+- INHERIT FROM THREAD TO PAUSE, MOVE, CANCEL
 
-## 不足
-- 不断点击暂停、取消操作后会导致文件资源被占用而不能删除的情况出现
+## DISADVANTAGE
+- BUGS AFTER CLICKING START/PAUSE CONTINUOUSLY
 
-## 演示
+## DEMO
 
 <img src="http://www.potatochip.cn/java_class_design.gif" width="60%">
