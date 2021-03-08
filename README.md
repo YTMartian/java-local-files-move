@@ -17,4 +17,4 @@ A JAVA HOMEWORK
 
 ## DEMO
 
-<img src="http://www.potatochip.cn/java_class_design.gif" width="60%">
+![java_class_design.gif](java_class_design.gif)
